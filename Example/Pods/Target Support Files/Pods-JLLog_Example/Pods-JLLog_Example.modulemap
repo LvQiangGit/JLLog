@@ -1,0 +1,6 @@
+framework module Pods_JLLog_Example {
+  umbrella header "Pods-JLLog_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
